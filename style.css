@@ -1,0 +1,69 @@
+#your_id{
+    position: relative;
+    bottom: -500px;
+    right: -350px;
+    width: 400px;
+    height: 60px;
+    background-color: rgb(206, 206, 206);
+    
+}
+
+#peer_id{
+    position: relative;
+    bottom: -500px;
+    right: -350px;
+    width: 400px;
+    height: 60px;
+    background-color: rgb(206, 206, 206);
+
+}
+
+#bt{
+    position: relative;
+    bottom: -500px;
+    right: -350px;
+    width: 75px;
+    height: 60px;
+    background-color: rgb(206, 206, 206);
+    color: black;
+    font-family: cursive;
+    font-size: 13px;
+}
+
+
+body{
+    margin-top: -10%;
+    font-size: larger;
+}
+
+
+
+
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 100px;
+}
+
+#message{
+    position: relative;
+    top: -600px;
+    right: -600px;
+    height: 60px;
+    background-color: rgb(206, 206, 206);
+}
+
+#send{
+    position: relative;
+    top: -600px;
+    right: -600px;
+    height: 60px;
+}
+
+.me{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div{
+    font-size: 50px;
+}
